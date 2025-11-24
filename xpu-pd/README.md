@@ -10,7 +10,7 @@ cd /workspace/
 export NIXL_VERSION=0.7.0
 python /workspace/vllm/tools/install_nixl_from_source_ubuntu.py --force-reinstall
 
-Get the updated run_accuracy_test.sh and toy_proxy.py from [here](https://github.com/srajabos/llm-d/tree/xpu-pd)
+Get the updated run_accuracy_test.sh and toy_proxy.py from [here](https://github.com/srajabos/llm-d/tree/xpu-pd/xpu-pd)
 
 cd /workspace/llm-d/xpu-md
 bash run_accuracy_test.sh
